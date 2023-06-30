@@ -1,0 +1,120 @@
+{
+    "Items": [
+        {
+            "key": "pt_br",
+            "value": "Português"
+        },
+        {
+            "key": "en",
+            "value": "Inglês"
+        },
+        {
+            "key": "al",
+            "value": "Alemão"
+        },
+        {
+            "key": "fr",
+            "value": "Francês"
+        },
+        {
+            "key": "continue",
+            "value": "Continuar"
+        },
+        {
+            "key": "new_game",
+            "value": "Novo Jogo"
+        },
+        {
+            "key": "settings",
+            "value": "Opções"
+        },
+        {
+            "key": "extras",
+            "value": "Extras"
+        },
+        {
+            "key": "music",
+            "value": "Música:"
+        },
+        {
+            "key": "sfx",
+            "value": "Efeitos sonoros:"
+        },
+        {
+            "key": "general_audio",
+            "value": "Volume Geral:"
+        },
+        {
+            "key": "resolution",
+            "value": "Resolução:"
+        },
+        {
+            "key": "languege",
+            "value": "Lingua:"
+        },
+        {
+            "key": "full_screen",
+            "value": "Tela Cheia"
+        },
+        {
+            "key": "quit_game",
+            "value": "Sair do Jogo"
+        },
+        {
+            "key": "new_game_text",
+            "value": "Começar um novo jogo vai remover o carregamento anterior. Você tem certeza que deseja começar um novo jogo?"
+        },
+        {
+            "key": "yes",
+            "value": "Sim"
+        },
+        {
+            "key": "no",
+            "value": "Não"
+        },
+        {
+            "key": "city1",
+            "value": "Floresta Khuthulan"
+        },
+        {
+            "key": "pause",
+            "value": "Pausado"
+        },
+        {
+            "key": "return_to_menu",
+            "value": "Voltar ao Menu Principal"
+        },
+        {
+            "key": "walktutorialtitle",
+            "value": "Tutorial de Movimentação"
+        },
+        {
+            "key": "walktutorialtext",
+            "value": "Utilize as teclas A e D do telado para mover Nyma pelos cenários e tecla W para pular com a personagem."
+        },
+        {
+            "key": "interactiontutorialtitle",
+            "value": "Tutoria de Interação"
+        },
+        {
+            "key": "interactiontutorialtext",
+            "value": "Para interagir com os objetos do cerário utilize do botão esquerdo do mouse. Alguns objetos necessitam que Nyma esteja próxima para que possam ser interagidos."
+        },
+        {
+            "key": "bagtutorialtitle",
+            "value": "Tutorial da Bolsa"
+        },
+        {
+            "key": "bagtutorialtext",
+            "value": "Ao coletar um item você poderá acessa-lo clicando no icone de bolsa no canto inferior esquerdo da tela."
+        },
+        {
+            "key": "bagtutorial2title",
+            "value": "Tutorial da Bolsa"
+        },
+        {
+            "key": "bagtutorial2text",
+            "value": "Ao acessar a bolsa da Nyma, você encontrará todos os itens que ela carrega e poderá analisa-los melhor ao colocar o mouse por cima deles."
+        }
+    ]
+}

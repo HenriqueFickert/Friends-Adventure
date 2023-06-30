@@ -1,0 +1,64 @@
+{
+    "Items": [
+        {
+            "key": "pt_br",
+            "value": "Portuguese"
+        },
+        {
+            "key": "en",
+            "value": "English"
+        },
+        {
+            "key": "al",
+            "value": "German"
+        },
+        {
+            "key": "fr",
+            "value": "Franch"
+        },
+        {
+            "key": "continue",
+            "value": "Continue"
+        },
+        {
+            "key": "new_game",
+            "value": "New Game"
+        },
+        {
+            "key": "settings",
+            "value": "Settings"
+        },
+        {
+            "key": "extras",
+            "value": "Extras"
+        },
+        {
+            "key": "music",
+            "value": "Music:"
+        },
+        {
+            "key": "sfx",
+            "value": "Sound Effects:"
+        },
+        {
+            "key": "general_audio",
+            "value": "General Volume:"
+        },
+        {
+            "key": "resolution",
+            "value": "Resolution:"
+        },
+        {
+            "key": "languege",
+            "value": "Languege:"
+        },
+        {
+            "key": "full_screen",
+            "value": "Full Screen"
+        },
+        {
+            "key": "quit_game",
+            "value": "Quit Game"
+        }
+    ]
+}
